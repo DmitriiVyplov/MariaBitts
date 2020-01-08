@@ -1,0 +1,25 @@
+{
+  "name": "mariabitts",
+  "version": "1.0.0",
+  "description": "Photographer Maria Bitts website",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DmitriiVyplov/MariaBitts.git"
+  },
+  "author": "Dmitrii Vyplov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DmitriiVyplov/MariaBitts/issues"
+  },
+  "homepage": "https://github.com/DmitriiVyplov/MariaBitts#readme",
+  "devDependencies": {
+    "path": "^0.12.7",
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.10",
+    "webpack-dev-server": "^3.10.1"
+  }
+}
